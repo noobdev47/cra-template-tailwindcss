@@ -18,10 +18,10 @@
       "react-spinners": "^0.10.6",
       "styled-components": "^5.2.3",
       "web-vitals": "^1.1.1",
-      "@tailwindcss/postcss7-compat": "^2.1.0",
-      "autoprefixer": "^9.8.6",
-      "postcss": "^7.0.35",
-      "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.0"
+      "@tailwindcss/postcss7-compat": "2.1.0",
+      "autoprefixer": "9.8.6",
+      "postcss": "7.0.35",
+      "tailwindcss": "npm:@tailwindcss/postcss7-compat@2.1.0"
     },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"]
