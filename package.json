@@ -13,20 +13,19 @@
   "keywords": [
     "react",
     "create-react-app",
-    "template"
+    "template",
+    "tailwindcss",
+    "react-animations"
   ],
   "description": "The base template for Create React App including out of the box configuration for tailwindCSS and react-animations.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/noobdev47/cra-template-tailwindcss.git",
     "directory": "packages/cra-template"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
-  },
-  "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
   },
   "files": [
     "template",
